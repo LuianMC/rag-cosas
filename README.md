@@ -1,1 +1,1 @@
-# RAG
+# Aplicación de RAG con LangChain
